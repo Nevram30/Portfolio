@@ -76,14 +76,14 @@
                         <!-- PROFILE -->
                             <div class="fucos">
                                 <div id="main-image">
-                                    <img src="../assets/Ellipse 3.png" alt="LOGO">
+                                    <img src="../assets/Picture.png" alt="LOGO">
                                 </div>
                                     <div class="content-header">
                                         <div class="main-header">
                                             <h1>MARVEN M. PARAY</h1>
                                         </div>
                                             <div class="sub-content">
-                                                <p>Hello There! I am a filipino <span id="content-header">Front-end</span> <span id="content-header-1">Developer</span> based in Philipppines.
+                                                <p>Hello There! I am a filipino <span id="content-header">Front-end</span> <span id="content-header-1">Developer</span>, Graphic designer, and Illustrator in Philipppines.
                                                   <br>Let's create and develop web application in a Idealistic, Simple, and Creative way.<br></p>
                                             </div>
                                                 <div class="new-button">

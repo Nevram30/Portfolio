@@ -2,6 +2,10 @@
 import Navbar from './components/Navbar.vue'
 import Hero from './components/Hero.vue'
 import Projects from './components/Projects.vue'
+
+
+
+
 </script>
 
 <template>
@@ -71,23 +75,28 @@ import Projects from './components/Projects.vue'
                     <!-- Basic Language -->
                     <div>
                     <div class="basic-lang">
-                      <h2 v-motion-fade-visible>Basic Language</h2>
+                      <h2 v-motion-fade-visible>Programming Language Tools</h2>
+                      <p>knowledgable in basic to advanced <br> html, css, and javascript languages.</p>
                       <div v-motion-slide-visible-once-right><img src="./assets/Basic-lang.png" alt="basic-lang"></div>
                     </div>
                     </div>
                     <!-- Set-up Environment Tool -->
                     <div class="set-up">
                       <h3 v-motion-fade-visible>Set-Up Environment Tool</h3>
+                      <p>I used Set-up environment tool such as vite <br> to set-up front-end framework.</p>
                       <div class="set-up-img" v-motion-slide-visible-once-right ><img src="./assets/Vite.png" alt="Set-Up-Env-Tool"></div>
                     </div>
                     <!-- CSS-Framework Tool -->
                     <div class="css-frame">
                       <h3 v-motion-fade-visible>CSS Framework</h3>
+                      <p>I used SASS and Tailwind <br> CSS framework for my projects.</p>
                       <div class="set-up-img" v-motion-slide-visible-once-right ><img src="./assets/cssframework.png" alt="Set-Up-Env-Tool"></div>
                     </div>
                     <!-- STACK DEVELOPMENT -->
                     <div id ="stack">
                     <h3 v-motion-fade-visible>Front-end Development Framework</h3>
+                    <p>I used Vue js fron-end framework to easily manage certain pages and<br> 
+                    used it as components. To minimize and reduce code scope for my projects.</p>
                     <div class="stack-dev" v-motion-slide-visible-once-right>
                       <div class="vue-img"><img src="./assets/Vue.png" alt=""></div>
                     </div>

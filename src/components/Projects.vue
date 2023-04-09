@@ -5,6 +5,10 @@ import Scroll from '../components/Scroll.vue'
 <template>
     <section id="project">
                         <div class="card-animation-cont">
+                          <div class="header1"><h1>GRAPHIC DESIGNS, ILLUSTRATIONS, AND DIGITAL PAINTS</h1>
+                          
+                          
+                          </div>
                             <!-- Duplicate the following div to add cards -->
                             <div class="card">
                               <img src="../assets/ads.jpg" alt="" />
@@ -13,10 +17,10 @@ import Scroll from '../components/Scroll.vue'
                                 <span class="sub-title-0">Graphic Design</span>
                                 <div class="hide-info">
                                   <span class="text"
-                                    >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                                    commodo nulla mauris, eget tincidunt felis bibendum sit amet. 
-                                   
-                                    <a href="#">Explore</a>
+                                    >This Design Ads is a design assessment in my previous applied jobs.  
+                                    <br>
+                                    <br>
+                                    Click here to <a href="#">Explore</a>
                                   </span>
                                 </div>
                               </div>
@@ -30,10 +34,11 @@ import Scroll from '../components/Scroll.vue'
                       
                                 <div class="hide-info">
                                   <span class="text"
-                                    >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                                    commodo nulla mauris, eget tincidunt felis bibendum sit amet.
+                                    >This Line arts and Digital Paints is created in my 
+                                    spare time to inhanced my skills in illustration and Digital Paints.
                                     <br>
-                                    <a href="#">Explore</a>
+                                    <br>
+                                    Click here to <a href="#">Explore</a>
                                   </span>
                                 </div>
                               </div>
@@ -47,17 +52,19 @@ import Scroll from '../components/Scroll.vue'
                                
                                 <div class="hide-info">
                                   <span class="text"
-                                    >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                                    commodo nulla mauris, eget tincidunt felis bibendum sit amet.
-                                    <a href="#">Explore</a>
+                                    >This T-shirt Design I've created are in my freelance project.
+                                    <br>
+                                    <br>
+                                    Click here to <a href="#">Explore</a>
                                   </span>
                                 </div>
                               </div>
                             </div>
                           </div>
-
+<br>
 
                     <div class="card-animation-cont">
+                      <div class="header2"><h1>WEB DESIGN AND APPLICATION</h1></div>  
                             <!-- Duplicate the following div to add cards -->
                             <div class="card">
                               <img src="../assets/AMS.png" alt="" />
@@ -91,7 +98,9 @@ import Scroll from '../components/Scroll.vue'
                                 </div>
                               </div>
                             </div>
+                            
                     </div>
+  
                     <!-- SCROLL TO TOP -->
                     <Scroll />
                     <!-- FOOTER -->
